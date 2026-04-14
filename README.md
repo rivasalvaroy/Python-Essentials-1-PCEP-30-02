@@ -1,6 +1,6 @@
 # Python-Essentials-1-PCEP-30-02
 
-Examples and exercises from the Python Essentials 1 course (Edube Interactive/ OpenEDG Python Institute)
+Examples and Exercises from the Python Essentials 1 Course (EDUBE Interactive / OpenEDG Python Institute)
 
 ## [OPENEDG](https://edube.org/study/pe1) (About this course)
 
